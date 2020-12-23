@@ -1,4 +1,4 @@
-from FS_dangjin_pkg.config import *
+from PrjtCF_model_pkg.config import *
 
 class schedule(object):
     def __init__(self, mtrt = 0):

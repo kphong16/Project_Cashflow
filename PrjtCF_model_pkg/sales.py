@@ -2,8 +2,8 @@
 
 """
 
-from FS_dangjin_pkg.config import *
-from FS_dangjin_pkg.schedule import *
+from PrjtCF_model_pkg.config import *
+from PrjtCF_model_pkg.schedule import *
 
 class sales(object):
     '''
